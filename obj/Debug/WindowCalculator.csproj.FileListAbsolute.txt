@@ -1,0 +1,34 @@
+D:\Work\Visual Studio\WindowCalculator\bin\Debug\WindowCalculator.exe.config
+D:\Work\Visual Studio\WindowCalculator\bin\Debug\WindowCalculator.exe
+D:\Work\Visual Studio\WindowCalculator\bin\Debug\WindowCalculator.pdb
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.Properties.Resources.resources
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.csproj.GenerateResource.cache
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.csproj.CoreCompileInputs.cache
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.exe
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.pdb
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.csprojAssemblyReference.cache
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.frmMain.resources
+D:\Work\Visual Studio\WindowCalculator\obj\Debug\WindowCalculator.frmSetting.resources
+E:\Senaka\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.exe.config
+E:\Senaka\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.exe
+E:\Senaka\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.pdb
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.frmMain.resources
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.frmSetting.resources
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.Properties.Resources.resources
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.GenerateResource.cache
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.CoreCompileInputs.cache
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.exe
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.pdb
+E:\Senaka\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csprojAssemblyReference.cache
+E:\Senaka\WindowCalculator\bin\Debug\WindowCalculator.exe.config
+E:\Senaka\WindowCalculator\bin\Debug\WindowCalculator.exe
+E:\Senaka\WindowCalculator\bin\Debug\WindowCalculator.pdb
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.frmMain.resources
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.frmSetting.resources
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.Properties.Resources.resources
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.csproj.GenerateResource.cache
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.csproj.CoreCompileInputs.cache
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.exe
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.pdb
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.frmChart.resources
+E:\Senaka\WindowCalculator\obj\Debug\WindowCalculator.csprojAssemblyReference.cache
